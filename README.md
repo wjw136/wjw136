@@ -1,7 +1,5 @@
 - 👋 Hi, I’m William
-- 👀 I’m interested in mechine learning, JavaScript and so on.
-- 🌱 I’m currently learning 前端+后端
-- 💞️ I’m looking to collaborate on 前端项目
+- 👀 I’m interested in NLP, cpp， java and so on.
 - 📫 How to reach me  
 qq:2831419633  
 wechat:wjwroyal1228
