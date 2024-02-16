@@ -1,7 +1,6 @@
-- 👋 Hi, I’m William
-- 👀 I’m interested in NLP, cpp, java and so on.
+- 👋 Hi, I’m william
+- 👀 I’m interested in NLP/ML, cpp, java and so on.
 - 📫 How to reach me  
-qq:2831419633  
 wechat:wjwroyal1228
 
 <!---
