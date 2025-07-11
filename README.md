@@ -1,7 +1,6 @@
 - 👋 Hi, I’m william. Master from SCUT.
 - 👀 I’m interested in **LLM privacy protection**，**LLM efficient reasoning** and previously work on **Information Extraction**.
-- 📫 How to reach me:   
-wechat:wjwroyal1228
+- 📫 How to reach me: wjwfyu@gmail.com
 
 - 📖 Published Papers:
 1. [COLING 2024] On the use of Silver Standard Data for Zero-shot Classification Tasks in Information Extraction. **Jianwei Wang**, Tianyin Wang, Ziqian Zeng.
