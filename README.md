@@ -1,5 +1,5 @@
-- 👋 Hi, I’m william
-- 👀 I’m interested in LLM privacy protection，LLM efficient reasoning and so on.
+- 👋 Hi, I’m william. Master from SCUT.
+- 👀 I’m interested in **LLM privacy protection**，**LLM efficient reasoning** and previously work on **Information Extraction**.
 - 📫 How to reach me:   
 wechat:wjwroyal1228
 
