@@ -3,10 +3,10 @@
 - 📫 How to reach me: wjwfyu@gmail.com
 
 - 📖 Published Papers:
-1. [COLING 2024] On the use of Silver Standard Data for Zero-shot Classification Tasks in Information Extraction. **Jianwei Wang**, Tianyin Wang, Ziqian Zeng.
-2. [AEJ JCR-Q1] 3D-AOCL: Analytic online continual learning for imbalanced 3D point cloud classification. Z Zeng, **J Wang**, L Wu, W Lu, H Zhuang.
-3. [ACL 2025] PrivacyRestore: Privacy-Preserving Inference in Large Language Models via Privacy Removal and Restoration. Ziqian Zeng*, **Jianwei Wang***, Junyao Yang*, ZhengdongLu, Haoran Li, Huiping Zhuang, Cen Chen.
-4. [Arixv] RewardDS: Privacy-Preserving Fine-Tuning for Large Language Models via Reward Driven Data Synthesis. **Jianwei Wang**, Chengming Shi, Junyao Yang, Haoran Li, Qianli Ma, Huiping Zhuang, Cen Chen, Ziqian Zeng.
+1. [Arixv] RewardDS: Privacy-Preserving Fine-Tuning for Large Language Models via Reward Driven Data Synthesis. **Jianwei Wang**, Chengming Shi, Junyao Yang, Haoran Li, Qianli Ma, Huiping Zhuang, Cen Chen, Ziqian Zeng.
+2. [ACL 2025] PrivacyRestore: Privacy-Preserving Inference in Large Language Models via Privacy Removal and Restoration. Ziqian Zeng*, **Jianwei Wang***, Junyao Yang*, ZhengdongLu, Haoran Li, Huiping Zhuang, Cen Chen.
+3. [AEJ Journal JCR-Q1] 3D-AOCL: Analytic online continual learning for imbalanced 3D point cloud classification. Z Zeng, **J Wang**, L Wu, W Lu, H Zhuang.
+4. [COLING 2024] On the use of Silver Standard Data for Zero-shot Classification Tasks in Information Extraction. **Jianwei Wang**, Tianyin Wang, Ziqian Zeng.
 
 
 
